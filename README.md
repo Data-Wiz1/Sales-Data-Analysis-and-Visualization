@@ -46,20 +46,6 @@ The dataset used in this project is the Customer Shopping Dataset, which can be 
     - Display the segmented customer data.
 
 
-## How to Run
-
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/Data_Wiz1/Sales-Data-Analysis-And-Visualization.git
-    ```
-
-2. Navigate to the project directory:
-    ```bash
-    cd Sales-Data-Analysis-And-Visualization
-    ```
-
-5. Execute the notebook cells to perform the analysis.
-
 ## Dependencies
 
 - numpy
