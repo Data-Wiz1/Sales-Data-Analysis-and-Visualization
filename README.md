@@ -56,7 +56,7 @@ The dataset used in this project is the Customer Shopping Dataset, which can be 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Acknowledgements
 
